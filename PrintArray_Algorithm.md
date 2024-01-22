@@ -1,0 +1,1 @@
+![PrintArray_Algorythm](image-2.png)
