@@ -1,0 +1,1 @@
+![NewArray_Algorithm](image-1.png)
