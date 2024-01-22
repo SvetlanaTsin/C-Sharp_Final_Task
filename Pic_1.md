@@ -1,1 +1,1 @@
-![Alt text](image.png)
+![NumberOfElements_Algorithm](image.png)
